@@ -1,0 +1,17 @@
+## Ignore build outputs
+bin/
+obj/
+
+## Ignore IDE files
+.vs/
+.vscode/
+
+## Ignore temporary/scratch files
+*.log
+*.tmp
+build-diag.txt
+buildpp.txt
+preprocessed.csproj
+
+## Ignore TempTestProj (stray test project — not part of assignment)
+TempTestProj/
