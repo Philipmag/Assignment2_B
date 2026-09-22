@@ -1,5 +1,7 @@
 # 🌳 Maximum Leaf-to-Leaf Path Finder
 
+[![CI](https://github.com/Philipmag/Assignment2_B/actions/workflows/ci.yml/badge.svg)](https://github.com/Philipmag/Assignment2_B/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > Finds the maximum-sum path between any two leaf nodes in a binary tree — with full path reconstruction.
 
 [![C#](https://img.shields.io/badge/C%23-.NET%208-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com)
